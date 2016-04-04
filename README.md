@@ -1,0 +1,2 @@
+# practice_rails_miklcocoa
+Milkcocoaを使用して、Railsアプリでリアルタイムチャットを実装する
